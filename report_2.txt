@@ -1,0 +1,43 @@
+East Anglia - Heavy Maintenance Unit
+Work Report
+
+Possession Information
+WON:	17
+Item:	103
+Ref:	P2021/3322141
+Shift:	Wednesday
+Times:	01:30-05:10
+Location:	Letchworth Garden City
+Latitude:	51.98027
+Longitude:	-0.22926
+ 
+Key Timings
+Permission to setup worksite:	01:50
+Permit granted:	01:59
+Requested handback:	(05:00)
+Permit returned:	03:30
+Permission to dismantle worksite:	03:45
+Possession returned to PICOP:	04:35
+
+Accidents, Incidents and Issues
+	No Accidents
+	No Incidents
+	COVID Issues 
+
+Planned Works
+	Wk14 MWD:
+	Manually remove and replace 13x S&C timber bearers and reballast.
+
+Completed Works
+	5x twist faults rectified including known issue through HP1
+	1x non-compliant installed AS1 chair replaced with L1 chair to rectify tight gauge issue on heels of HP3 (Photo)
+	12x sleepers plugged and pulled – 3x tight gauge sites rectified through plain line and S&C HP3 on DC electrified line between buffers and HP1
+	Site tidied with scrap sleepers, timbers, waste bags and litter manually recovered to Eastleigh MDU. Scrap metal recycled at Basingstoke P-Way.
+	HMU intervention works of the Long Valley Sidings DC Electrified line 2802, between buffers and HP1, now complete with track geometry restored to within tolerance and the site cleared of all scrap materials.
+	50x sleepers manually replaced
+	13x S&C timbers between 8’6”-15’ manually replaced
+
+Additional Information
+	Geismar diamond trolley used to pick up any snagging track geometry faults including additional unknown tight gauge issues and twist faults as well pinpointing known faults.
+	
+

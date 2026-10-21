@@ -1,0 +1,41 @@
+Wessex Outer - Heavy Maintenance Unit
+Work Report
+
+Possession Information
+WON:	14
+Item:	94
+Ref:	P2021/3322144
+Shift:	Friday
+Times:	11:20-22:30
+Location:	Basingstoke Down E End Sidings
+Latitude:	51.26949
+Longitude:	-1.08023
+ 
+Key Timings
+Permission to setup worksite:	11:55
+Permit granted:	11:59
+Requested handback:	(22:00)
+Permit returned:	19:40
+Permission to dismantle worksite:	19:45
+Possession returned to PICOP:	20:05
+
+Accidents, Incidents and Issues
+	No Accidents
+	No Incidents
+	No COVID Issues 
+
+Planned Works
+	Known tight gauge rectification
+	Known track geometry faults
+
+Completed Works
+	13x S&C timbers between 8’6”-15’ manually replaced
+	40x tonnes of ballast manually replenished
+	93x sleepers plugged and pulled to rectify tight gauge issues
+	46x broken AS1 chairs replaced (heavily contributed by tight gauge issues)
+	5x twists rectified
+	Delipped all joints to improve JCT calculations
+	CRE works complete
+
+Additional Information
+	TME to request TEF3203 to see notes on several obsolete chairs that are broken and need replacing – HMU had no stock and unable to source within timeframe.
